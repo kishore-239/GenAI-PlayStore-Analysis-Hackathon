@@ -8,26 +8,6 @@ All findings in this README are **directly based on the outputs obtained from th
 
 ---
 
-## 📁 Project Structure
-GenAI-PlayStore-Hackathon/
-│
-├── GenAI_PlayStore_Analysis.ipynb # Main notebook (all tasks)
-├── README.md # Documentation
-│
-├── data/
-│ ├── Play_store_and_User_reviews_set_1.xlsx
-│ ├── Play_Store_set_2_data_1.json
-│ ├── Play_Store_set_2_data_2.json
-│ ├── Use_reviews_set_2_data.json
-│ └── playstore_data.db
-
-
-
-
-
-- **
----
-
 ## 🛠️ Technologies & Methods Used
 
 ### **🔧 Data Cleaning & Processing**
@@ -153,6 +133,7 @@ GenAI-PlayStore-Hackathon/
 Krishna Kishore K
 Participant — Innomatics GenAI Hackathon
 Date: November 15, 2025
+
 
 
 
