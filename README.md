@@ -2,7 +2,7 @@
 
 ### *Official Submission for Innomatics Research Labs – GenAI Internship Test (15 Nov 2025)*
 
-This project presents a complete end-to-end analysis of Google Play Store applications, integrating multi-source datasets (Excel, JSON, SQLite), performing deep cleaning, exploratory data analysis, statistical tests, NLP, and basic machine learning modeling.
+This project presents a complete end-to-end analysis of Google Play Store applications, integrating multi-source datasets (Excel, JSON, SQLite), performing deep cleaning, exploratory data analysis, statistical tests, and basic machine learning modeling.
 
 
 ---
@@ -132,6 +132,7 @@ This project presents a complete end-to-end analysis of Google Play Store applic
 - Krishna Kishore K
 - Participant — Innomatics GenAI Hackathon
 - Date: November 15, 2025
+
 
 
 
