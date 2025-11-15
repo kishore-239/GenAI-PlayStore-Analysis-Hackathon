@@ -130,9 +130,10 @@ All findings in this README are **directly based on the outputs obtained from th
 --- 
 
 👤 Author
-Krishna Kishore K
-Participant — Innomatics GenAI Hackathon
-Date: November 15, 2025
+- Krishna Kishore K
+- Participant — Innomatics GenAI Hackathon
+- Date: November 15, 2025
+
 
 
 
