@@ -4,7 +4,6 @@
 
 This project presents a complete end-to-end analysis of Google Play Store applications, integrating multi-source datasets (Excel, JSON, SQLite), performing deep cleaning, exploratory data analysis, statistical tests, NLP, and basic machine learning modeling.
 
-All findings in this README are **directly based on the outputs obtained from the notebook** — no assumptions, no fabricated numbers.
 
 ---
 
@@ -133,6 +132,7 @@ All findings in this README are **directly based on the outputs obtained from th
 - Krishna Kishore K
 - Participant — Innomatics GenAI Hackathon
 - Date: November 15, 2025
+
 
 
 
